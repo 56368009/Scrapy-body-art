@@ -3,4 +3,3 @@
 # 框架
 Scrapy
 
-# 爬取站点xixirenti.cc
